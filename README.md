@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Wendrya Andrade :woman_technologist:
 
 
-Meu nome é Wendrya. Sou Técnica em Informática e atualmente sou estudante de Sistemas de Informação da PUC Minas desde 2018. 
+Meu nome é Wendrya. Sou Técnica em Informática e desde 2018 sou estudante de Sistemas de Informação da PUC Minas. 
 
 Em minhas horas vagas gosto de jogar jogos online, assistir séries e filmes e sempre ouvir uma boa música. 🎮📺🎵
 
