@@ -23,7 +23,7 @@ Meu nome é Wendrya. Sou Técnica em Informática e desde 2018 sou estudante de 
 
 Em minhas horas vagas gosto de jogar jogos online, assistir séries e filmes e sempre ouvir uma boa música. 🎮📺🎵
 
-:heart: Habilidades: C#, Java, C++, C, Assembly, HTML/CSS, BMPN...
+:heart: Habilidades: C#, Java, C++, C, Assembly, HTML/CSS, BPMN...
 
 
 Onde você também pode me encontrar:
