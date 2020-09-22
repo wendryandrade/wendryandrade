@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 # Wendrya Andrade :woman_technologist:
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendrya-andrade/)](https://www.linkedin.com/in/wendrya-andrade/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https:/https://www.youtube.com/channel/UCoHRB6JVc3z_Ba8WxTg9pBw?view_as=subscriber/)](https://www.youtube.com/channel/UCoHRB6JVc3z_Ba8WxTg9pBw?view_as=subscriber)
 
 Meu nome é Wendrya. Sou Técnica em Informática e desde 2018 sou estudante de Sistemas de Informação da PUC Minas. 
 
@@ -25,10 +27,5 @@ Em minhas horas vagas gosto de jogar jogos online, assistir séries e filmes e s
 
 :heart: Habilidades: C#, Java, C++, C, Assembly, HTML/CSS, BPMN...
 
-
-Onde você também pode me encontrar:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendrya-andrade/)](https://www.linkedin.com/in/wendrya-andrade/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wendrya1@gmail.com)](mailto:wendrya1@gmail.com)
 
 <!--
