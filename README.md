@@ -25,7 +25,7 @@ Meu nome é Wendrya. Sou Técnica em Informática pela FUNEC e bacharel em Siste
 
 Em minhas horas vagas gosto de jogar jogos online, assistir séries e filmes e sempre ouvir uma boa música. 🎮📺🎵
 
-:heart: Habilidades: C#, Java, C++, C, Assembly, HTML/CSS, BPMN, Scrum, Selenium WebDriver...
+:heart: Habilidades: C#, Selenium WebDriver, Java, C++, C, Assembly, HTML/CSS, JavaScript, BPMN, Scrum...
 
 
 <!--
