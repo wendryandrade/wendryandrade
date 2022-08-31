@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendrya-andrade/)](https://www.linkedin.com/in/wendrya-andrade/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https:/https://www.youtube.com/channel/UCoHRB6JVc3z_Ba8WxTg9pBw?view_as=subscriber/)](https://www.youtube.com/channel/UCoHRB6JVc3z_Ba8WxTg9pBw?view_as=subscriber)
 
-Meu nome é Wendrya. Sou Técnica em Informática pela FUNEC e bacharel em Sistemas de Informação pela PUC Minas. 
+Meu nome é Wendrya. Sou Técnica em Informática pela FUNEC e bacharela em Sistemas de Informação pela PUC Minas. 
 
 Em minhas horas vagas gosto de jogar jogos online, assistir séries e filmes e sempre ouvir uma boa música. 🎮📺🎵
 
