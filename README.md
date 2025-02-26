@@ -1,31 +1,16 @@
-### Olá 👋
+### 👩‍💻 Wendrya Andrade  
 
-<!--
-**wendryandrade/wendryandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formação**: Técnica em Informática pela FUNEC e Bacharela em Sistemas de Informação pela PUC Minas.  
 
-Here are some ideas to get you started:
+💡 **Sobre mim**: Sou apaixonada por tecnologia e desenvolvimento de software, sempre buscando aprender e aprimorar minhas habilidades. Atualmente, foco no desenvolvimento Full Stack, explorando novas tecnologias e frameworks para criar soluções eficientes.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Habilidades**:  
+- 💻 **Front-end**: HTML, CSS, JavaScript  
+- 🔙 **Back-end**: C#, Java, C++, C, Assembly  
+- 🛠 **Testes & Automação**: Selenium WebDriver  
+- 📌 **Metodologias & Modelagem**: BPMN, Scrum  
 
+🎮 **Hobbies**: Jogar online, assistir séries e filmes, e, claro, curtir uma boa música!  
 
-# Wendrya Andrade :woman_technologist:
-
+📫 **Conecte-se comigo**:  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/wendrya-andrade/)](https://www.linkedin.com/in/wendrya-andrade/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-c14438?style=flat-square&logo=YouTube&logoColor=white&link=https:/https://www.youtube.com/channel/UCoHRB6JVc3z_Ba8WxTg9pBw?view_as=subscriber/)](https://www.youtube.com/channel/UCoHRB6JVc3z_Ba8WxTg9pBw?view_as=subscriber)
-
-Meu nome é Wendrya. Sou Técnica em Informática pela FUNEC e bacharela em Sistemas de Informação pela PUC Minas. 
-
-Em minhas horas vagas gosto de jogar jogos online, assistir séries e filmes e sempre ouvir uma boa música. 🎮📺🎵
-
-:heart: Habilidades: HTML/CSS, JavaScript, C#, Selenium WebDriver, Java, C++, C, Assembly, BPMN, Scrum...
-
-
-<!--
